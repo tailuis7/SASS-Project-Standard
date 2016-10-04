@@ -1,2 +1,3 @@
 # SASS-Project-Standard
++++++Please delete Example.txt file in img folder before start.+++++
 This is a standard structure of SASS Project...
